@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#3165ff&height=120&section=header"/>
 
 ---
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/larialbu">
+  <a href="https://github.com/jonathanborgesss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larialbu&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larialbu&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
@@ -52,6 +52,6 @@
 ---
 
 <!-- Parte inferior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#3165ff&height=120&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
