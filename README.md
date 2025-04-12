@@ -3,7 +3,7 @@
 ---
 <div align="center">
   
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Jonathan Borges
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá Mundo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Jonathan Borges
  🧑🏻‍💻 Sou um desenvolvedor front-end, UI/UX designer e apaixonado por tecnologia.<br>
  ⚡ Graduando Análise e Desenvolvimento de Sistemas na Fatec Waldomiro May<br>
  🧑🏻‍🎓 Técnico em Desenvolvimento de Sistemas<br>
