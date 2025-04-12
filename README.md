@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e43b4&height=120&section=header"/>
 
 ---
 <div align="center">
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Jonathan Borges
  🧑🏻‍💻 Sou um desenvolvedor front-end, UI/UX designer e apaixonado por tecnologia.<br>
- ⚡ Graduando Análise e Desenvolvimento de Sistemas na Fatec Waldmiro May<br>
+ ⚡ Graduando Análise e Desenvolvimento de Sistemas na Fatec Waldomiro May<br>
  🧑🏻‍🎓 Técnico em Desenvolvimento de Sistemas<br>
 </div>
 
@@ -51,7 +51,4 @@
 
 ---
 
-<!-- Parte inferior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=120&section=footer"/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e43b4&height=120&section=footer"/>
